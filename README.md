@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://main--bad-request-404.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/4XbrFexkwPffQFqAZ0yc">
       Solution
     </a>
     <span> | </span>
@@ -24,7 +24,7 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contentsa
+## Table of Content
 
 - [Overview](#overview)
   - [Built With](#built-with)
@@ -36,14 +36,12 @@
 
 ## Overview
 
-![screenshot](./images/404Error.PNG)
+![screenshot](404Error.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+404 NOT FOUND page
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Click here to see the <a href="https://main--bad-request-404.netlify.app"> Demo </a>
+- Thrilling challenges and fun to resolve.
 
 ### Built With
 
@@ -69,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 <!-- Website [your-website.com](https://{your-web-site-link})-->
-
-- GitHub [@your-username](https://{github.com/Lakshmi519})
-- Twitter [@your-twitter](https://{twitter.com/LNavalli})
+- Website [@GeekyPoint](https://main--bad-request-404.netlify.app)
+- GitHub [@Lakshmi519](https://{github.com/Lakshmi519})
+- Twitter [@LNavalli](https://{twitter.com/LNavalli})
